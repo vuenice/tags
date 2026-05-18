@@ -1,1 +1,1 @@
-export { default } from './src/CommonTag.vue'
+export { default } from './CommonTag.vue';
